@@ -1,3 +1,8 @@
 int a=15
 int b=20
 print (a+b)
+
+
+int x=13
+int y=14
+print(x+y)
